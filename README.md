@@ -4,6 +4,16 @@ A leading service provider in **premium exchange accounts** for various needs in
 
 ---
 
+<p align="center">
+  <img alt="Akatsuki Chibi" src="https://raw.githubusercontent.com/IkySyptraa/IkySyptraa/main/assets/akatsuki_chibi.gif" />
+</p>
+
+### Hello, I'm IkySyptraa! 👋
+
+A leading service provider in **premium exchange accounts** for various needs in the crypto world. I focus on delivering **secure, fast, and verified solutions**, helping you maximize every opportunity in the digital market.
+
+---
+
 ### 🚀 About Me
 
 -   **Mission:** To simplify your access to global trading platforms with high-quality accounts.
@@ -34,18 +44,13 @@ I provide premium accounts for leading platforms such as:
 ![Blockchain](https://img.shields.io/badge/Blockchain-0077B6?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Trading](https://img.shields.io/badge/Trading-2196F3?style=for-the-badge&logo=binance&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
 ---
 
 ### ✨ Portfolio & Projects
 
--   **Main Service Information Page:** Visit my official website for more details on premium exchange account services.
-    [View Full Page at ikysyptraa.github.io/pages/](https://ikysyptraa.github.io/pages/)
--   ---
-
-### 📊 GitHub Stats (Optional)
-
-[![IkySyptraa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IkySyptraa&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IkySyptraa&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+-   **Main Service Information Page:** Visit my official website for more details on premium exchange account services.  
+    [🔗 View Full Page at ikysyptraa.github.io/pages/](https://ikysyptraa.github.io/pages/)
 
 ---
 
