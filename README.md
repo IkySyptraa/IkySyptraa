@@ -60,7 +60,6 @@ You can reach me through various platforms:
 
 -   **Linktree:** [ikysyptraaofficial](https://linktr.ee/ikysyptraaofficial)
 -   **Personal Telegram:** [@IkySyptraa](https://t.me/IkySyptraa)
--   **Customer Service Bot:** [@KycServiceID_bot](https://t.me/KycServiceID_bot)
 -   **Official Telegram Channel:** [OTCGLOBALEXCHANGE](https://t.me/OTCGLOBALEXCHANGE)
 -   **Customer Feedback:** [See Testimonials here](https://t.me/+jX-ShwPNMa4yMTA1)
 
